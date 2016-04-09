@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Minecraft</string>
+		<key>Genre</key>
+		<string>Worldbuilding FPS</string>
+		<key>Rating</key>
+		<integer>5</integer>
+		<key>Synopsis</key>
+		<string>Build your own voxel based world while surviving against various types of baddies. Beware of creepers.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bioshock Infinite</string>
+		<key>Genre</key>
+		<string>Narrative FPS</string>
+		<key>Rating</key>
+		<integer>5</integer>
+		<key>Synopsis</key>
+		<string>While the shooting is bland, the storytelling is top-notch.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Day Z</string>
+		<key>Genre</key>
+		<string>Survival</string>
+		<key>Rating</key>
+		<integer>4</integer>
+		<key>Synopsis</key>
+		<string>Try to survive in a post apocalytic wasteland where the zombies are the least of your problems.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Cave</string>
+		<key>Genre</key>
+		<string>Platform Adventure Game</string>
+		<key>Rating</key>
+		<integer>4</integer>
+		<key>Synopsis</key>
+		<string>A funny creative adventure game that takes place in a cave.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Infamous: Second Son</string>
+		<key>Genre</key>
+		<string>3rd Person Super Hero</string>
+		<key>Rating</key>
+		<integer>3</integer>
+		<key>Synopsis</key>
+		<string>Play as a superhero where morality is as much of a gameplay element as stopping the bad guys. Fun but has a &quot;been there, done that&quot; feel to it.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dead Rising</string>
+		<key>Genre</key>
+		<string>3rd Person Action Game</string>
+		<key>Rating</key>
+		<integer>3</integer>
+		<key>Synopsis</key>
+		<string>A zombie game that takes place in a mall. Somewhat frustrating but fun.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dance Central</string>
+		<key>Genre</key>
+		<string>Kinect Wibble Wobble</string>
+		<key>Rating</key>
+		<integer>2</integer>
+		<key>Synopsis</key>
+		<string>Dance you like you have a spider crawling down your shirt. Can be fun until your knee blows out.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Battlefield 4</string>
+		<key>Genre</key>
+		<string>FPS</string>
+		<key>Rating</key>
+		<integer>2</integer>
+		<key>Synopsis</key>
+		<string>Could have been great, but slogged with bugs.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dungeon Keeper iOS</string>
+		<key>Genre</key>
+		<string>DLC Collecting</string>
+		<key>Rating</key>
+		<integer>1</integer>
+		<key>Synopsis</key>
+		<string>A classic remake that replaces clever gameplay with in app purchases.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Pitfall for iOS</string>
+		<key>Genre</key>
+		<string>DLC Collecting</string>
+		<key>Rating</key>
+		<integer>1</integer>
+		<key>Synopsis</key>
+		<string>Really? I have to pay for continues?</string>
+	</dict>
+</array>
+</plist>
